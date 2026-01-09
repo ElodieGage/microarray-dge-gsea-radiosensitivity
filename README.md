@@ -17,8 +17,8 @@ The analysis was carried out in R. The main steps are described below:
 microarray-dge-gsea-radiosensitivity/
   data/ 
   scripts/
-    01_preprocessing.R
-    02_limma_DE.R
+    01_limma_DEG_analysis.R
+    02_volcano_and_PCA.R
     03_GSEA_analysis.R
     04_GSEA_plots.R
   results/
