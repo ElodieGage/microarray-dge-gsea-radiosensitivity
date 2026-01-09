@@ -2,9 +2,9 @@
 
 ## **Project Overview**
 
-This project investigates genomic differences associated with cellular radiosensitivity using microarray expression data. Differential gene expression analysis was performed using the limma package, followed by pathway-level interpretation using Gene Set Enrichment Analysis (GSEA).
+This project investigates transcriptional differences associated with cellular radiosensitivity using microarray expression data. Differential gene expression analysis was performed using the limma package, followed by pathway-level interpretation using Gene Set Enrichment Analysis (GSEA).
 
-The aim of the analysis was to identify biological processes and signalling pathways that separate radiosensitive from radioresistant samples.
+The aim of the analysis was to identify biological processes and signalling pathways that distinguish radiosensitive from radioresistant samples.
 
 
 ## **Analysis Pipeline**
