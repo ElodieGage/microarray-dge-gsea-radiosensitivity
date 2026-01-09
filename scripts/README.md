@@ -45,5 +45,4 @@ Scripts are numbered to indicate the recommended order of execution.
 
 ## Attribution
 
-This project was completed as part of an academic genomics course and is shared here for
-educational and portfolio purposes.
+This project was completed as part of a bioinformatics course. 
