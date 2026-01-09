@@ -27,21 +27,6 @@ microarray-dge-gsea-radiosensitivity/
   README.md
 ```
 
-```
-  microarray-dge-gsea-radiosensitivity/
-├── data/ 
-├── scripts/ 
-│ ├── 01_preprocessing.R
-│ ├── 02_limma_DE.R
-│ ├── 03_GSEA_analysis.R
-│ └── 04_GSEA_plots.R
-├── results/
-│ ├── figures/
-│ └── tables/ 
-└── README.md
-
-```
-
 ## **Key Results**
 
 
