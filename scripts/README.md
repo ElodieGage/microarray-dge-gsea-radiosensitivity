@@ -13,7 +13,7 @@ The analysis was carried out in R. The main steps are described below:
 
 
 ## **Repository Structure**
-
+```
 microarray-dge-gsea-radiosensitivity/
   data/ 
   scripts/
@@ -25,7 +25,9 @@ microarray-dge-gsea-radiosensitivity/
     figures/ 
     tables/ 
   README.md
+```
 
+```
   microarray-dge-gsea-radiosensitivity/
 ├── data/ 
 ├── scripts/ 
@@ -37,6 +39,8 @@ microarray-dge-gsea-radiosensitivity/
 │ ├── figures/
 │ └── tables/ 
 └── README.md
+
+```
 
 ## **Key Results**
 
